@@ -3,7 +3,7 @@ HSAN：融合超图高阶关联与全局感知的学生课堂行为识别方法
 
 ### 完整的数据集已经放到百度网盘中，下载放到datasets文件夹下解压即可，如下所示:
 通过网盘分享的文件：SCB-S和SCB-U数据集
-链接: https://pan.baidu.com/s/11bbiOG2serm9DnJRkshGGw?pwd=2025 提取码: 2025
+链接: https://pan.baidu.com/s/1N7D-PEnKTEc4Bg-5VMBgLA?pwd=aupk 提取码: aupk
 
 ### 实验环境设置:
 本实验在高性能计算环境中进行，硬件平台配置如下：操作系统为Ubuntu 20.04.6 LTS，CPU为Intel(R) Xeon(R) Platinum 12 vCPU，GPU为NVIDIA vGPU-32GB，内存90 GB。深度学习框架采用PyTorch 2.4.1，CUDA版本为12.1，开发语言为Python 3.8.20。
